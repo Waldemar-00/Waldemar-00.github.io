@@ -121,7 +121,7 @@ nav .sandwich {
 }
 
 .promo {
-  background: url("/src/img/1-bg-car.png") center center/cover no-repeat;
+  background: url("img/1-bg-car.png") center center/cover no-repeat;
   min-height: 800px;
   padding: 151px 0 135px 0;
 }
@@ -212,7 +212,7 @@ nav .sandwich {
   margin-right: 26px;
   min-width: 113px;
   height: 113px;
-  background: url("/src/icon/round-blue1.png") center center/cover no-repeat;
+  background: url("icon/round-blue1.png") center center/cover no-repeat;
   padding: 26px 12px;
 }
 
@@ -293,7 +293,7 @@ nav .sandwich {
 
 .mobile {
   min-height: 864px;
-  background: url("/src/img/bg-fon-2-web.png") center center/cover no-repeat;
+  background: url("img/bg-fon-2-web.png") center center/cover no-repeat;
   padding: 48px 0 79px 0;
 }
 
@@ -310,27 +310,27 @@ nav .sandwich {
 }
 
 .mobile_item_1 {
-  background: url("/src/img/1-map-visa.png") center center/cover no-repeat;
+  background: url("img/1-map-visa.png") center center/cover no-repeat;
 }
 
 .mobile_item_2 {
-  background: url("/src/img/2-map-john.png") center center/cover no-repeat;
+  background: url("img/2-map-john.png") center center/cover no-repeat;
 }
 
 .mobile_item_3 {
-  background: url("/src/img/3-map-17-20.png") center center/cover no-repeat;
+  background: url("img/3-map-17-20.png") center center/cover no-repeat;
 }
 
 .mobile_item_4 {
-  background: url("/src/img/4-map-17.png") center center/cover no-repeat;
+  background: url("img/4-map-17.png") center center/cover no-repeat;
 }
 
 .mobile_item_5 {
-  background: url("/src/img/5-map-stars.png") center center/cover no-repeat;
+  background: url("img/5-map-stars.png") center center/cover no-repeat;
 }
 
 .mobile_item_6 {
-  background: url("/src/img/6-map-accept.png") center center/cover no-repeat;
+  background: url("img/6-map-accept.png") center center/cover no-repeat;
 }
 
 .mobile_item_text {
@@ -392,7 +392,7 @@ nav .sandwich {
 }
 
 .opportunity {
-  background: url("/src/img/2bg.png") center center/cover no-repeat;
+  background: url("img/2bg.png") center center/cover no-repeat;
   min-height: 895px;
   padding: 57px 0 32px;
 }
@@ -506,7 +506,7 @@ nav .sandwich {
   top: 3px;
   width: 21px;
   height: 20px;
-  background: url("/src/icon/check-mark-blue.png") center center/cover no-repeat;
+  background: url("icon/check-mark-blue.png") center center/cover no-repeat;
 }
 
 .require_descr {
@@ -520,13 +520,13 @@ nav .sandwich {
 }
 
 .require .red .require_list li::before {
-  background: url("/src/icon/check-mark-red.png") center center/cover no-repeat;
+  background: url("icon/check-mark-red.png") center center/cover no-repeat;
 }
 
 .map {
   height: 717px;
   width: 100%;
-  background: url("/src/img/dark-planet.png") center center/cover no-repeat;
+  background: url("img/dark-planet.png") center center/cover no-repeat;
   padding-top: 49px;
 }
 
